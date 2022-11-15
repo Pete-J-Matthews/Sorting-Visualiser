@@ -1,7 +1,8 @@
-# ivy
+# Sorting Visualizor
 
-Visualization of sorting algorithm
-[preview](https://aaron-bird.github.io/ivy/)
+Visualization of sorting algorithms to help understand how they operate.
+
+sort-algo.pete-j-.matthews.com
 
 name | average | worst
 --- | --- | ---
