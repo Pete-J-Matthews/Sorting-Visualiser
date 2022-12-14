@@ -2,7 +2,7 @@
 
 Visualization of sorting algorithms to help understand how they operate.
 
-sort-algo.pete-j-matthews.com
+http://www.pete-j-matthews.com/Sorting-Visualiser/
 
 name | average | worst
 --- | --- | ---
