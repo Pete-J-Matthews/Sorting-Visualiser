@@ -1,6 +1,6 @@
 # Sorting Visualizor
 
-Visualization of sorting algorithms to help understand how they operate.
+Visualization tool for sorting algorithms to help understand how they operate.
 
 http://www.pete-j-matthews.com/Sorting-Visualiser/
 
